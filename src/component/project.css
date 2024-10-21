@@ -70,3 +70,9 @@ p{
     width: 30px;
 }
 
+@media (max-width: 1021px) {
+    .title{
+        text-align: center;
+    }
+}
+
